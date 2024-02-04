@@ -1,0 +1,7 @@
+
+numpy
+pandas
+logging
+scikit-learn
+dill
+-e .
